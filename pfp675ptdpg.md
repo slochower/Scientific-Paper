@@ -1,3 +1,3 @@
 ## Markdown section
 
-This author [](https://github.com/slochower/Scientific-Paper)
+This authorea manuscript is [](https://github.com/slochower/Scientific-Paper)
